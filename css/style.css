@@ -3,7 +3,6 @@ header{
     background-color: orange;
 }
 *[class^="col"]{
-    min-height: 100%;
     border: 1px solid black;
 }
 
@@ -16,8 +15,6 @@ header{
 }
 .cards{
     background-color: darkred;
-    border: 1px solid black;
-    height: 400px;
 }
 .cerchio{
     min-height: 250px;
@@ -25,4 +22,14 @@ header{
     border-radius: 50%;
     border: 1px solid white;
     margin: 0 auto;
+}
+.faq{
+    background-color: aquamarine;
+    min-height: 200px;
+}
+.about{
+    background-color: wheat;
+}
+.footer{
+    background-color: gray;
 }
