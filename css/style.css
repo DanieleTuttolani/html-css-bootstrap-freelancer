@@ -11,9 +11,7 @@ header .navbar{
     border: 1px solid black;
 }
 
-.d-md-flex li{
-    color: red;
-}
+
 .jumbo{
     background-color: #1abc9c;
 }
@@ -35,8 +33,7 @@ header .navbar{
     margin: 0 auto;
 }
 .faq{
-    background-color: aquamarine;
-    min-height: 200px;
+    background-color: #1abc9c;
 }
 .about{
     background-color: wheat;
@@ -48,5 +45,5 @@ header .navbar{
 .star-decoration{
     height: 5px;
     width: 80px;
-    border: 1px solid white;
+    
 }
