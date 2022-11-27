@@ -36,14 +36,22 @@ header .navbar{
     background-color: #1abc9c;
 }
 .about{
-    background-color: wheat;
+    background-color: white;
 }
-.footer{
-    background-color: gray;
+footer{
+    background-color: #3a546d;
 }
 
 .star-decoration{
     height: 5px;
     width: 80px;
     
+}
+
+.cerchio-social{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin: 0 10px;
 }
